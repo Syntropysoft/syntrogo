@@ -1,7 +1,7 @@
 # SyntroGo
 
 <div align="center">
-  <img src="assets/syntropySoft.png" alt="SyntroGo" width="400" />
+  <img src="https://raw.githubusercontent.com/Syntropysoft/syntrogo/main/assets/syntropySoft.png" alt="SyntroGo" width="400" />
 </div>
 
 <div align="center">
