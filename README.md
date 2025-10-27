@@ -1,7 +1,7 @@
 # SyntroGo
 
 <div align="center">
-  <img src="./assets/syntropySoft.png" alt="SyntroGo" width="400" />
+  <img src="https://github.com/Syntropysoft/syntrogo/blob/main/assets/beaconLog-2.png?raw=true" alt="SyntroGo" width="400" />
 </div>
 
 <div align="center">
